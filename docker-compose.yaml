@@ -1,0 +1,7 @@
+services:
+  ofpv:
+    image: gnasello/ofpv-env:2024-12-11
+    container_name: ofpv-env
+    user: root
+    ports:
+      - 8888:8888

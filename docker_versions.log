@@ -1,0 +1,7 @@
+-------------------------------
+
+v. 2024-12-11
+
+Docker container based on jupyter/base-notebook:2024-08-26
+
+OpenFOAM and Paraview installed (without GUI acccess)
