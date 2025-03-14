@@ -1,4 +1,4 @@
-# Docker Image with OpenFoam and Paraview (without GUI)
+# Docker Image with OpenFoam and Paraview (with GUI)
 
 # Build the docker images
 
