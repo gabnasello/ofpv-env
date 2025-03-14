@@ -1,5 +1,5 @@
 #!/bin/bash
 
-VESRION='2024-12-11.1'
+VESRION='2025-03-14'
 
 docker build --no-cache -t gnasello/ofpv-env:$VESRION .

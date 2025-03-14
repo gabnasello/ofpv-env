@@ -1,5 +1,11 @@
 -------------------------------
 
+v. 2025-03-14
+
+Switch to linuxserver bsae image (with GUI access)
+
+-------------------------------
+
 v. 2024-12-11
 
 Docker container based on jupyter/base-notebook:2024-08-26

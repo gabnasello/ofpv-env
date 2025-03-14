@@ -1,7 +1,5 @@
 # Docker Image with OpenFoam and Paraview (without GUI)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabnasello/ofpv-env/HEAD)
-
 # Build the docker images
 
 From the project folder, run the command below:
@@ -20,4 +18,8 @@ From the project folder, run the command below:
 
 You can run the following command:
 
-```docker run -p 8888:8888 --name ofpv gnasello/ofpv-env:latest```
+```docker run -it -d -p 3000:3000 gnasello/ofpv-env:latest```
+
+# Use the Docker container
+
+Open ```localhost:3000``` in your browser to get a virtual desktop.
